@@ -1,0 +1,436 @@
+{
+    "items": [
+      {
+        "_id": "labscard",
+        "_tpl": "5c94bbff86f7747ee735c08f",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true
+        }
+      },
+      {
+        "_id": "mosinfantry",
+        "_tpl": "5bfd297f0db834001a669119",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 5,
+          "UnlimitedCount": false
+        }
+      },
+      {
+        "_id": "66242bde800f8376e2a01945",
+        "_tpl": "5ae0973a5acfc4001562206c",
+        "parentId": "mosinfantry",
+        "slotId": "mod_magazine"
+      },
+      {
+        "_id": "66242bf28327fce1a5513ab0",
+        "_tpl": "5bbdb870d4351e00367fb67d",
+        "parentId": "mosinfantry",
+        "slotId": "mod_stock"
+      },
+      {
+        "_id": "66242c1fc666fb4da56d20d6",
+        "_tpl": "5bfd4cbe0db834001b73449f",
+        "parentId": "mosinfantry",
+        "slotId": "mod_barrel"
+      },
+      {
+        "_id": "662431cb45ca733e4ec989b7",
+        "_tpl": "5ae099875acfc4001714e593",
+        "parentId": "66242c1fc666fb4da56d20d6",
+        "slotId": "mod_sight_front"
+      },
+      {
+        "_id": "6624325c52242f405efe2bd1",
+        "_tpl": "5ae099925acfc4001a5fc7b3",
+        "parentId": "66242c1fc666fb4da56d20d6",
+        "slotId": "mod_sight_rear"
+      },
+      {
+        "_id": "ifak",
+        "_tpl": "590c678286f77426c9660122",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 6,
+          "UnlimitedCount": false
+        }
+      },
+      {
+        "_id": "calokb",
+        "_tpl": "5e8488fa988a8701445df1e4",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 6,
+          "UnlimitedCount": false
+        }
+      },
+      {
+        "_id": "salewa",
+        "_tpl": "544fb45d4bdc2dee738b4568",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 6,
+          "UnlimitedCount": false
+        }
+      },
+      {
+        "_id": "propital",
+        "_tpl": "5c0e530286f7747fa1419862",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 3,
+          "UnlimitedCount": false
+        }
+      },
+      {
+        "_id": "morphine",
+        "_tpl": "544fb3f34bdc2d03748b456a",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 3,
+          "UnlimitedCount": false
+        }
+      },
+      {
+        "_id": "sj6injector",
+        "_tpl": "5c0e531d86f7747fa23f4d42",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 3,
+          "UnlimitedCount": false
+        }
+      },
+      {
+        "_id": "muleinjector",
+        "_tpl": "5ed51652f6c34d2cc26336a1",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 2,
+          "UnlimitedCount": false
+        }
+      },
+      {
+        "_id": "zagustin",
+        "_tpl": "5c0e533786f7747fa23f4d47",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 3,
+          "UnlimitedCount": false
+        }
+      },
+      {
+        "_id": "alsplint",
+        "_tpl": "5af0454c86f7746bf20992e8",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 6,
+          "UnlimitedCount": false
+        }
+      },
+      {
+        "_id": "afak",
+        "_tpl": "60098ad7c2240c0fe85c570a",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 4,
+          "UnlimitedCount": false
+        }
+      },
+      {
+        "_id": "surv12",
+        "_tpl": "5d02797c86f774203f38e30a",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 2,
+          "UnlimitedCount": false
+        }
+      },
+      {
+        "_id": "3btg",
+        "_tpl": "5ed515c8d380ab312177c0fa",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 3,
+          "UnlimitedCount": false
+        }
+      },
+      {
+        "_id": "trimadol",
+        "_tpl": "637b620db7afa97bfc3d7009",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 2,
+          "UnlimitedCount": false
+        }
+      },
+      {
+        "_id": "etg",
+        "_tpl": "5c0e534186f7747fa1419867",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 2,
+          "UnlimitedCount": false
+        }
+      },
+      {
+        "_id": "cms",
+        "_tpl": "5d02778e86f774203e7dedbe",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 3,
+          "UnlimitedCount": false
+        }
+      },
+      {
+        "_id": "goldenstar",
+        "_tpl": "5751a89d24597722aa0e8db0",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 2,
+          "UnlimitedCount": false
+        }
+      },
+      {
+        "_id": "ibuprofen",
+        "_tpl": "5af0548586f7743a532b7e99",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 2,
+          "UnlimitedCount": false
+        }
+      },
+      {
+        "_id": "grizzly",
+        "_tpl": "590c657e86f77412b013051d",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 2,
+          "UnlimitedCount": false
+        }
+      },
+      {
+        "_id": "injectorcase",
+        "_tpl": "619cbf7d23893217ec30b689",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 1,
+          "UnlimitedCount": false
+        }
+      }
+    ],
+    "barter_scheme": {
+      "mosinfantry": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 30000
+          }
+        ]
+      ],
+      "ifak": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 19892
+          }
+        ]
+      ],
+      "calokb": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 12924
+          }
+        ]
+      ],
+      "salewa": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 24985
+          }
+        ]
+      ],
+      "propital": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 32576
+          }
+        ]
+      ],
+      "morphine": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 15496
+          }
+        ]
+      ],
+      "sj6injector": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 67593
+          }
+        ]
+      ],
+      "muleinjector": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 148924
+          }
+        ]
+      ],
+      "labscard": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 145000
+          }
+        ]
+      ],
+      "zagustin": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 36829
+          }
+        ]
+      ],
+      "alsplint": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 24930
+          }
+        ]
+      ],
+      "afak": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 33584
+          }
+        ]
+      ],
+      "surv12": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 50102
+          }
+        ]
+      ],
+      "3btg": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 41592
+          }
+        ]
+      ],
+      "trimadol": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 95603
+          }
+        ]
+      ],
+      "etg": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 132059
+          }
+        ]
+      ],
+      "cms": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 40294
+          }
+        ]
+      ],
+      "goldenstar": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 156449
+          }
+        ]
+      ],
+      "ibuprofen": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 104768
+          }
+        ]
+      ],
+      "grizzly": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 56859
+          }
+        ]
+      ],
+      "injectorcase": [
+        [
+          {
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "count": 657928
+          }
+        ]
+      ]
+    },
+    "loyal_level_items": {
+      "mosininfantry": 1,
+      "ifak": 1,
+      "calokb": 1,
+      "salewa": 1,
+      "propital": 1,
+      "morphine": 1,
+      "sj6injector": 1,
+      "muleinjector": 1,
+      "labscard": 1,
+      "zagustin": 1,
+      "alsplint": 1,
+      "afak": 1,
+      "surv12": 1,
+      "3btg": 1,
+      "trimadol": 1,
+      "etg": 1,
+      "cms": 1,
+      "goldenstar": 1,
+      "ibuprofen": 1,
+      "grizzly": 1,
+      "injectorcase": 1
+    }
+  }
